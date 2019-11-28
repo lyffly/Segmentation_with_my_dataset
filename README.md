@@ -29,7 +29,15 @@ will add more soon!
 
 will add soon
 
+论文名称：U-Net: Convolutional Networks for Biomedical Image Segmentation
 
+U-net 论文地址：https://arxiv.org/abs/1505.04597
+
+网络架构图（个人评价：简单实用不花梢）
+
+![](imgs/unet.jpeg)
+
+部分代码取之：https://github.com/JavisPeng/u_net_liver
 
 ### 0x03 结果
 
@@ -41,4 +49,8 @@ will add soon
 
 ![](imgs/demo2.png)
 
-完整的Demo视频可以在B站观看，链接：
+完整的Demo视频可以在B站观看，链接：https://www.bilibili.com/video/av77291164/
+
+### 0x04 下一步
+
+汽车车道的多种类物体分割
